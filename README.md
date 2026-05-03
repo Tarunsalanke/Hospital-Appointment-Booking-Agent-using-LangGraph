@@ -113,7 +113,7 @@ Twilio Notifications
 
 ## 🛠️ Tech Stack
 
-* **LLM**: Groq (LLaMA 3)
+* **LLM**: Groq (GPT-OSS)
 * **Framework**: LangChain + LangGraph
 * **Backend**: FastAPI
 * **Database**: PostgreSQL
@@ -146,8 +146,8 @@ hospital-agent/
 ### 1️⃣ Clone Repository
 
 ```
-git clone https://github.com/your-username/mediflow-ai.git
-cd mediflow-ai
+git clone https://github.com/Tarunsalanke/Hospital-Appointment-Booking-Agent-using-LangGraph.git
+cd Hospital-Appointment-Booking-Agent-using-LangGraph
 ```
 
 ---
